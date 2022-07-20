@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-FROM nginx:alpine
+FROM nginx:1-alpine
 
 ARG VERSION
 
