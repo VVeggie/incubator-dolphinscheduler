@@ -62,25 +62,25 @@
         <spring.version>5.1.18.RELEASE</spring.version>
         <spring.boot.version>2.1.17.RELEASE</spring.boot.version>
         <java.version>1.8</java.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.7</logback.version>
         <hadoop.version>2.7.3</hadoop.version>
         <quartz.version>2.3.0</quartz.version>
-        <jackson.version>2.9.10</jackson.version>
-        <mybatis-plus.version>3.2.0</mybatis-plus.version>
+        <jackson.version>2.12.6.1</jackson.version>
+        <mybatis-plus.version>3.3.2</mybatis-plus.version>
         <mybatis.spring.version>2.0.1</mybatis.spring.version>
-        <cron.utils.version>5.0.5</cron.utils.version>
+        <cron.utils.version>9.1.6</cron.utils.version>
         <druid.version>1.1.22</druid.version>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.1.210</h2.version>
         <commons.codec.version>1.11</commons.codec.version>
         <commons.logging.version>1.1.1</commons.logging.version>
-        <httpclient.version>4.4.1</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.1</httpcore.version>
         <junit.version>4.12</junit.version>
         <mysql.connector.version>5.1.34</mysql.connector.version>
         <slf4j.api.version>1.7.5</slf4j.api.version>
         <slf4j.log4j12.version>1.7.5</slf4j.log4j12.version>
         <commons.collections.version>3.2.2</commons.collections.version>
-        <commons.httpclient>3.0.1</commons.httpclient>
+        <commons.httpclient>3.1</commons.httpclient>
         <commons.beanutils.version>1.7.0</commons.beanutils.version>
         <commons.configuration.version>1.10</commons.configuration.version>
         <commons.email.version>1.5</commons.email.version>
@@ -88,7 +88,7 @@
         <javax.servlet.api.version>3.1.0</javax.servlet.api.version>
         <commons.collections4.version>4.1</commons.collections4.version>
         <guava.version>20.0</guava.version>
-        <postgresql.version>42.1.4</postgresql.version>
+        <postgresql.version>42.3.3</postgresql.version>
         <hive.jdbc.version>2.1.0</hive.jdbc.version>
         <commons.io.version>2.4</commons.io.version>
         <oshi.core.version>3.5.0</oshi.core.version>
